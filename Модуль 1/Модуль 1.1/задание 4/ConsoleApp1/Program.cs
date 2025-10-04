@@ -11,7 +11,7 @@ namespace zadanie_4
             // Обьявление класса Random
             Random rnd = new Random();
 
-            // Цикл for для заполнения массива рандомаными числами
+            // Цикл for для заполнения массива случайными числами
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = rnd.Next(-100, 100);
