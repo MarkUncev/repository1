@@ -1,0 +1,11 @@
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\bin\Debug\Rimrabic.exe.config
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\bin\Debug\Rimrabic.exe
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\bin\Debug\Rimrabic.pdb
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.csproj.AssemblyReference.cache
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.Form1.resources
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.Properties.Resources.resources
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.csproj.GenerateResource.cache
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.csproj.CoreCompileInputs.cache
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.exe
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.pdb
+C:\Users\mozi-pc\source\repos\Rimrabic\Rimrabic\obj\Debug\Rimrabic.exe.config
