@@ -1,0 +1,17 @@
+﻿<Window x:Class="ContactManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Менеджер контактов" Height="600" Width="750"
+        Background="#2D2D30">
+    <Grid>
+        <!-- Навигация -->
+        <StackPanel Orientation="Horizontal" Background="#404040" Height="50" VerticalAlignment="Top">
+            <Button Content="Создать" Click="GoToCreate" Width="150" Margin="5" FontSize="16" Background="#007ACC" Foreground="White" BorderThickness="0"/>
+            <Button Content="Поиск" Click="GoToSearch" Width="150" Margin="5" FontSize="16" Background="#007ACC" Foreground="White" BorderThickness="0"/>
+            <Button Content="Редактировать" Click="GoToEdit" Width="150" Margin="5" FontSize="16" Background="#007ACC" Foreground="White" BorderThickness="0"/>
+        </StackPanel>
+
+        <!-- Контейнер для страниц -->
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Margin="0,50,0,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.AssemblyReference.cache
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\MainWindow.baml
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\MainWindow.g.cs
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\App.g.cs
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager_MarkupCompile.cache
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.g.resources
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.exe.config
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\CreateContactPage.baml
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\EditContactPage.baml
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\SearchContactPage.baml
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\CreateContactPage.g.cs
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\EditContactPage.g.cs
+D:\3 курс\ПРАКТИКА\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\SearchContactPage.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.AssemblyReference.cache
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.exe.config
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\CreateContactPage.baml
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\EditContactPage.baml
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\MainWindow.baml
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\SearchContactPage.baml
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\CreateContactPage.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\EditContactPage.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\MainWindow.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\SearchContactPage.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\App.g.cs
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager_MarkupCompile.cache
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.g.resources
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+D:\Модуль 8\Новая папка\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
